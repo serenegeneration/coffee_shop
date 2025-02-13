@@ -1,0 +1,45 @@
+body
+{
+background-image: url(images/coffee.jpg);
+}
+#nav
+{
+background-color: white;
+border: darkgray 5px solid ;
+display: flex; 
+justify-content: space-between
+}
+#img
+{
+display: flex;
+justify-content: space-evenly;
+}
+#head
+{ 
+background-color: burlywood;
+border: darkgray 5px solid;
+text-size-adjust: 20px;
+width: 200px;
+display: flex;
+justify-content: center;
+
+}
+#main
+{
+    background-color: rgba(199, 118, 85, 0.623);
+    border: darkgray 5px solid
+    display: flex;
+    justify-content: center;
+}
+#foot
+{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+ }
+ #price
+ {
+background-color: rgba(199, 118, 85, 0.623);
+display: flex;
+justify-content: space-evenly;
+ }
