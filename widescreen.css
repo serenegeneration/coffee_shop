@@ -5,7 +5,7 @@ font-family: 'Times New Roman', Times, serif;
 }
 #nav
 {
-background-color: white;
+background-color: rgba(172, 168, 168, 0.521);
 border: darkgray 5px solid ;
 display: flex; 
 justify-content: space-between
@@ -30,9 +30,9 @@ justify-content: center;
 }
 #foot
 {
-    background-color: white;
+    background-color: rgba(172, 168, 168, 0.521);
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
  }
  #price
  {
